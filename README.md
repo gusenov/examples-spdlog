@@ -81,3 +81,4 @@ spdlog использует подход "include what you need" - в коде �
    - [Hello, World!](hello)
    - [Подход "include what you need"](include-what-you-need)
    - [Асинхронный логгер использующий фабричный метод](asynchronous-logger-using-factory-method)
+   - [Создание асинхронного логгера и изменение настроек пула потоков](async-logger-and-thread-pool-settings)
