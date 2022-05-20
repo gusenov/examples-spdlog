@@ -100,3 +100,4 @@ spdlog использует подход "include what you need" - в коде �
 - [Create stdout/stderr logger object](create-stdout-stderr-logger-object)
 - [Basic file logger](basic-file-logger)
 - [Исследование API](aio)
+- [Sink'и одного типа но с разным уровнем логирования](same-sink-type-but-different-log-level)
