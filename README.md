@@ -98,4 +98,5 @@ spdlog использует подход "include what you need" - в коде �
    - [Создание нескольких файловых логгеров с одним и тем же выходным файлом](create-multiple-file-loggers-with-same-output-file)
 - [Basic usage](basic-usage)
 - [Create stdout/stderr logger object](create-stdout-stderr-logger-object)
+- [Basic file logger](basic-file-logger)
 - [Исследование API](aio)
